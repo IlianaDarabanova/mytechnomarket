@@ -1,0 +1,2 @@
+# mytechnomarket
+single page app 
