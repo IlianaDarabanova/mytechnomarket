@@ -1,0 +1,114 @@
+body{
+    margin: 0%;
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border: 0px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #450086;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+header img{
+    width: 100%;
+}
+
+.item{
+    display: inline-block;
+}
+.item img{
+    width: 100%;
+    width: 250px;
+}
+
+.item{
+
+    display:inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+.view>div{
+    margin: 3% 3%;
+}
+
+
+.home-page, .about-us, .contacts{
+
+    font-size: 20px;
+    font-family: fantasy;
+
+}
+
+.view{
+    padding: 4%;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-family: fantasy;
+
+}
+
+.category label{
+    display: block;
+}
+
+label.title{
+  
+    margin: 2%;
+}
+.category label{
+    margin-bottom: 2%;
+}
+
+fieldset div{
+   
+    margin-bottom: 3%
+}
+.item-title{
+    font-size: 22px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.price{
+    font-style: italic;
+    color: grey;
+}
+
+.add-product> div{
+    display: inline;
+  
+}
+
+fieldset{
+    text-align: center;
+}
+
+
+
+
